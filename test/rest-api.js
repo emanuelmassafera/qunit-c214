@@ -1,4 +1,4 @@
-const getApi = require('../api.js');
+const getApi = require('../rest-api.js');
 
 QUnit.module('api tests');
 
